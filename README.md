@@ -4,7 +4,7 @@ This project uses a kaggle Instrument Classifier Data set to classify instrument
 ## Data Overview
 The Instrument Data set has 4 instruments, with labeled audio .wav files. Here is a mel specrogram visualization of some of the data.
 
-(./assets/datademo.png)
+![Data](./assets/datademo.png)
 
 ## Methods Overview
 In progress
